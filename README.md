@@ -72,6 +72,6 @@
 ## Скриншот дашборда
 
 ![Дашборд мониторинга температуры](images/dashboard.png)
-
+![Дашборд мониторинга температуры](images/dashboard2.png)
 
 [.pbix файл](sensors_monitoring.pbix)
